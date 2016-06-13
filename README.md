@@ -1,0 +1,2 @@
+# Ammocrate
+Ammo calculator
